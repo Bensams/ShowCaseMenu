@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\Project\ShowCaseMenu\ShowCaseMenu\MyForm.h(60,33): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'MyForm.cpp')
+  
+D:\Project\ShowCaseMenu\ShowCaseMenu\MyForm.h(60,33): warning C4129: 'J': unrecognized character escape sequence
+  (compiling source file 'MyForm.cpp')
+  
+D:\Project\ShowCaseMenu\ShowCaseMenu\MyForm.h(60,33): warning C4129: 'd': unrecognized character escape sequence
+  (compiling source file 'MyForm.cpp')
+  
+D:\Project\ShowCaseMenu\ShowCaseMenu\MyForm.cpp(8,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ShowCaseMenu.vcxproj -> D:\Project\ShowCaseMenu\x64\Debug\ShowCaseMenu.exe

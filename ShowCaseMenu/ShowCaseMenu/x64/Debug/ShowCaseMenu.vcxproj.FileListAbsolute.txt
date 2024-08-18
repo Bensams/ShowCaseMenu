@@ -1,0 +1,3 @@
+D:\Project\ShowCaseMenu\ShowCaseMenu\x64\Debug\ShowCaseMenu.vcxproj.AssemblyReference.cache
+D:\Project\ShowCaseMenu\ShowCaseMenu\x64\Debug\ShowCaseMenu.MyForm.resources
+D:\Project\ShowCaseMenu\ShowCaseMenu\x64\Debug\ShowCaseMenu.vcxproj.GenerateResource.cache
